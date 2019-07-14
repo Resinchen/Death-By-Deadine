@@ -1,0 +1,1 @@
+global.is_exit_out_menu = true;

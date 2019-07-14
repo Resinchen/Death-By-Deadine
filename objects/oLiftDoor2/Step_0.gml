@@ -1,0 +1,1 @@
+if (oLiftDoor1.flag) x-=5

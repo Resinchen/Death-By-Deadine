@@ -1,0 +1,1 @@
+draw_surface(dark, view_x, view_y);
